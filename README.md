@@ -1,4 +1,4 @@
-# [Cabin Rentals] (https://frontendella.github.io/Cabin-Rentals-Website/index.html)
+# [Cabin Rentals](https://frontendella.github.io/Cabin-Rentals-Website/index.html)
 
 ## A multi-page responsive web design with a landing page and a sub page.
 
