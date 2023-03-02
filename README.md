@@ -1,4 +1,4 @@
-# Cabin Rentals
+# Cabin Rentals (currently in a progress)
 
 ## A multi-page responsive web design with a landing page and a sub page.
 
