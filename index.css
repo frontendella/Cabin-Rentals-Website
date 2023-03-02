@@ -324,4 +324,39 @@ p.test-auth {
         font-size: 1.5em;
         margin-bottom: 3em;
     }
+
+    .bio {
+        width: 90%;
+    }
+
+    ul.testimonials {
+        margin-left: 2em;
+        width: 100%
+    }
+    ul.testimonials li {
+        display: flex;
+        background: white;
+        padding: 1.5em;
+        margin-bottom: 1em;
+    }
+
+    .test-img {
+        margin-right: 1em;
+    }
+    .test-desc {
+        margin-top: .5em;
+        font-size: 1.1em;
+        margin-bottom: 0;
+    }
+
+    .fern {
+        width: 20%;
+    }
+
+    .cabin-desc, ul.features li p, .left p {
+         font-size: .9em;
+    }
+
+
+
 }
